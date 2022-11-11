@@ -11,7 +11,7 @@
 
 body{
     padding-top: 5vh; /*view high*/
-    background-image:url('../img/fundo\ roxo.jpg');
+    background:#fff;
     background-size: cover;
     background-position-y: -150px;
 }
@@ -77,11 +77,11 @@ input{
 }
 
 input:focus{
-    border-color:#e60084;
+    border-color:#b800e6;
 }
 
 input[type="submit"]{
-    background-color: #e60084;
+    background-color: #b800e6;
     color: #fff;
     border:none;
     border-radius: 20px;
